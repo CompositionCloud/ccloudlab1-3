@@ -261,7 +261,7 @@ const GUI = (function GUI_() {
                 loudness_string += indications[loudness];
 
                 if (loudness_array.indexOf(loudness) < loudness_array.length - 1) {
-                    loudness_string += " >";
+                    loudness_string += " <";
                 }
                     
                 if (bold_italics) {
