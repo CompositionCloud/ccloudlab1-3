@@ -190,7 +190,7 @@ scores.push(function polygon1v1() {
         ],
         annotations: {
             type: "fixed",
-            text: "<br><u>static image</u><br><br>each different color in the shape enclosed by the dashed rectangle indicates a different multiphonic<br><br><br><u>moving image</u><br><br>[white background]<br>silence<br><br>[foggy background]<br>air sounds",
+            text: "<br><u>static image</u><br><br>each different color in the figure enclosed by the dashed rectangle indicates a different multiphonic<br><br><br><u>moving image</u><br><br>[white background]<br>silence<br><br>[foggy background]<br>air sounds",
             preview: {
                 type: "fixed",
                 text: "different multiphonics"
